@@ -3,7 +3,7 @@
 An AI-powered career roadmap generator that creates personalized learning paths based on your career goals, current skills, and available time.
 
 ## 🔗 Live Demo
-Coming soon...
+https://stunning-elf-4c9d5c.netlify.app
 
 ## ✨ Features
 - 🤖 AI-generated personalized roadmaps
