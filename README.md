@@ -1,16 +1,30 @@
-# React + Vite
+# 🚀 AI Career Roadmap Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered career roadmap generator that creates personalized learning paths based on your career goals, current skills, and available time.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+Coming soon...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- 🤖 AI-generated personalized roadmaps
+- 📅 Phase-by-phase learning timeline
+- 🎯 Skills breakdown for each phase
+- ⏱️ Time-based planning (3/6/12 months)
+- 🌙 Beautiful dark theme UI
+- 📱 Fully responsive design
 
-## React Compiler
+## 🛠️ Built With
+- React
+- Tailwind CSS
+- Vite
+- OpenRouter AI API
+- Meta Llama 3.1
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🔧 Setup
+1. Clone the repo
+2. Run `npm install`
+3. Create `.env` file with `VITE_OPENROUTER_API_KEY=your_key`
+4. Run `npm run dev`
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👩‍💻 Author
+**V. Ragini**
